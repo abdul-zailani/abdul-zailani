@@ -28,12 +28,14 @@ Suka bikin sistem yang reliable, tapi kadang sistemnya yang bikin saya **unrelia
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdul-zailani&show_icons=true&theme=dark&hide_border=true)
+![GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abdul-zailani&theme=dark)
 
 ---
 
 <div align="center">
 
 **"Making systems reliable, one `terraform apply` at a time"** 🚀
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://id.linkedin.com/in/aazizzailani)
 
 </div>
