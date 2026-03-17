@@ -17,7 +17,7 @@ spec:
 
 ### 📊 GitHub
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdul-zailani&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a6e3a1&icon_color=89dceb&text_color=cdd6f4&hide=stars)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdul-zailani&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a6e3a1&icon_color=89dceb&text_color=cdd6f4&hide=stars&count_private=true&include_all_commits=true)
 ![Streak](https://github-readme-streak-stats.herokuapp.com?user=abdul-zailani&theme=dark&hide_border=true&background=0d1117&ring=a6e3a1&fire=f38ba8&currStreakLabel=a6e3a1)
 
 ### 🔗 Links
