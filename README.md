@@ -15,6 +15,11 @@ spec:
   databases: [PostgreSQL, MySQL, Redis]
 ```
 
+### 🛠️ Projects
+
+[![dotfiles](https://img.shields.io/badge/🏠_dotfiles-macOS_terminal_setup-b7bdf8?style=flat-square)](https://github.com/abdul-zailani/dotfiles)
+— One-command macOS dev environment with Catppuccin Macchiato, modern CLI tools, and sane defaults for DevOps workflows.
+
 ### 📊 GitHub
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdul-zailani&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a6e3a1&icon_color=89dceb&text_color=cdd6f4&hide=stars&count_private=true&include_all_commits=true)
