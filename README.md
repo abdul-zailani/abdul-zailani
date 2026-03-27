@@ -1,21 +1,24 @@
 # 👋 Hi, I'm Aziz
 
-**Site Reliability Engineer** @ [Lion Parcel](https://lionparcel.com) · Jakarta, Indonesia
+**Site Reliability Engineer** · Jakarta, Indonesia
 
-> Fixed one "small bug" and accidentally became DevOps. Now I automate everything before it has feelings.
+> "Simplicity is the prerequisite for reliability." — *The SRE Path.*
 
 ```yaml
-apiVersion: v1
-kind: Engineer
+apiVersion: sre.ninja/v1beta2
+kind: Professional
 metadata:
   name: abdul-aziz-zailani
+  status: Automating the World
 spec:
-  focus: [reliability, automation, observability, cost-optimization]
-  cloud: [AWS, GCP, Alibaba Cloud]
-  tools: [Kubernetes, Terraform, Ansible, Jenkins, Docker]
-  monitoring: [Prometheus, Grafana, Tempo]
-  databases: [PostgreSQL, MySQL, Redis]
-  languages: [Go, Rust, Python, Bash]
+  philosophy: "Automate everything, measure the rest."
+  skills:
+    orchestration: [Kubernetes, Docker]
+    iac: [Terraform, Ansible]
+    cloud: [AWS, GCP, Alibaba]
+    observability: [Prometheus, Grafana, Tempo]
+    languages: [Bash, Groovy, HCL]
+    databases: [Postgres, MySQL, Redis, Kafka]
 ```
 
 ### 🔧 What I Build
@@ -28,10 +31,6 @@ spec:
 
 [![dotfiles](https://img.shields.io/badge/🏠_dotfiles-macOS_terminal_setup-b7bdf8?style=flat-square)](https://github.com/abdul-zailani/dotfiles)
 — One-command macOS dev environment with Catppuccin Macchiato and sane defaults for DevOps workflows.
-
-### 📊 GitHub
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdul-zailani&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=a6e3a1&icon_color=89dceb&text_color=cdd6f4&count_private=true&include_all_commits=true)
 
 ### 🔗 Links
 
